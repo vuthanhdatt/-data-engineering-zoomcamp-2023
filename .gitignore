@@ -1,2 +1,7 @@
 solution.md
 .ipynb_checkpoints
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
