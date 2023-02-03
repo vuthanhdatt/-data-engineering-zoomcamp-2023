@@ -5,3 +5,6 @@ solution.md
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+week5_batch_process/*.parquet
+week5_batch_process/fhvhv
